@@ -11,7 +11,10 @@ using namespace std;
 
 int main() {
   string name;
-  cout << "Hello CS-216!";
+  cout << "Hello CS-216!" << endl;
+  cout << "Enter your name: ";
+  getline(cin, name);
+  cout << "Welcome " << name << endl;
 }
 
 /*********************************************
