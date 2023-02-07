@@ -10,7 +10,7 @@ Student Last Name: Novoa
 using namespace std;
 
 int main() {
-  
+  string name;
   cout << "Hello CS-216!";
 }
 
