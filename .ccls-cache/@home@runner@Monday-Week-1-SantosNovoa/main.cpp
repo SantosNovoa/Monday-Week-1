@@ -19,5 +19,7 @@ int main() {
 
 /*********************************************
 // Output:
-
+Hello CS-216!
+Enter your name: Santos Novoa
+Welcome Santos Novoa
 **********************************************/
